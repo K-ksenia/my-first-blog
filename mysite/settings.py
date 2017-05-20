@@ -25,7 +25,7 @@ SECRET_KEY = 'g2rp1znk-gr9$^w#)r4ptwp_@1&0ry$1154-ad095(98#)nq@9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['xeniax.pythonanywhere.com', ]
 
 
 # Application definition
